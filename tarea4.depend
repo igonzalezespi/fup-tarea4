@@ -29,3 +29,34 @@
 1497004503 d:\drive\universidad\fup ii\tareas\tarea4\tarea4\common.h
 	"contact_list_tree.h"
 
+1497005578 source:d:\drive\universidad\fup ii\tareas\tarea4\tarea4.1\contact_list_tree.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"common.h"
+	"contact_list_tree.h"
+
+1497005331 d:\drive\universidad\fup ii\tareas\tarea4\tarea4.1\common.h
+	"contact_list_tree.h"
+
+1497005390 d:\drive\universidad\fup ii\tareas\tarea4\tarea4.1\contact_list_tree.h
+	"contact_list.h"
+
+1497005379 d:\drive\universidad\fup ii\tareas\tarea4\tarea4.1\contact_list.h
+
+1497005390 source:d:\drive\universidad\fup ii\tareas\tarea4\tarea4.1\main.c
+	<stdio.h>
+	<ctype.h>
+	<windows.h>
+	"common.h"
+	"contact_list.h"
+
+1497005542 source:d:\drive\universidad\fup ii\tareas\tarea4\tarea4.1\contact_list.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"common.h"
+	"contact_list.h"
+	"contact_list_tree.h"
+

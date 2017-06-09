@@ -67,9 +67,9 @@ void display_tree(node* nd) {
     return;
   printf("%s",nd->data->name);
   if(nd->first != NULL)
-    printf("(L:%s)",nd->first->data->name);
+    printf("(1:%s)",nd->first->data->name);
   if(nd->second != NULL)
-    printf("(R:%s)",nd->second->data->name);
+    printf("(2:%s)",nd->second->data->name);
   printf("\n");
 
   display_tree(nd->first);
