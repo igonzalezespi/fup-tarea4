@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1497004832 source:d:\drive\universidad\fup ii\tareas\tarea4\tarea4\contact_list.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"common.h"
+	"contact_list.h"
+	"contact_list_tree.h"
+
+1497004833 d:\drive\universidad\fup ii\tareas\tarea4\tarea4\contact_list.h
+
+1497004612 source:d:\drive\universidad\fup ii\tareas\tarea4\tarea4\contact_list_tree.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"common.h"
+	"contact_list_tree.h"
+
+1497004833 d:\drive\universidad\fup ii\tareas\tarea4\tarea4\contact_list_tree.h
+	"contact_list.h"
+
+1497004833 source:d:\drive\universidad\fup ii\tareas\tarea4\tarea4\main.c
+	<stdio.h>
+	<ctype.h>
+	<windows.h>
+	"common.h"
+	"contact_list.h"
+
+1497004503 d:\drive\universidad\fup ii\tareas\tarea4\tarea4\common.h
+	"contact_list_tree.h"
+
